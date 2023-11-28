@@ -1,3 +1,4 @@
 import test from "./test"
+import survey from "./survey"
 
-export const schemaTypes = [test]
+export const schemaTypes = [test, survey]
