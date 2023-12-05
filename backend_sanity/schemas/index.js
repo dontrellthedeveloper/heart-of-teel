@@ -8,3 +8,6 @@ import gallery from "./gallery"
 import extras from "./extras"
 
 export const schemaTypes = [test, survey, form, homepage, contact, donate, gallery, extras]
+
+
+
