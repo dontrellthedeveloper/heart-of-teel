@@ -6,8 +6,13 @@ import contact from "./contact"
 import donate from "./donate"
 import gallery from "./gallery"
 import extras from "./extras"
+import header from './header'
 
-export const schemaTypes = [test, survey, form, homepage, contact, donate, gallery, extras]
+export const schemaTypes = [test, survey, form, homepage, contact, donate, gallery, extras, header]
+
+
+
+
 
 
 
